@@ -1,5 +1,7 @@
 [English](README.md) | [日本語](README.ja.md)
 
+***本リポジトリは [BatchCatalog](../../../BatchCatalog) に移動しました。***
+
 # Magic Packet Batch
 
 Wake-on-LANのマジックパケットを送信するサンプル。
